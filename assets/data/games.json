@@ -1,0 +1,353 @@
+{
+  "appName": "GamerZone",
+  "tagline": "Info game apa yang kamu butuhkan?",
+  "categories": [
+    { "id": "menembak", "name": "Menembak", "icon": "menembak" },
+    { "id": "balap", "name": "Balap", "icon": "balap" },
+    { "id": "strategi", "name": "Strategi", "icon": "strategi" },
+    { "id": "sport", "name": "Sport", "icon": "sport" }
+  ],
+  "games": [
+    {
+      "id": "genshin-impact",
+      "title": "Genshin Impact",
+      "genre": "Action RPG",
+      "category": "strategi",
+      "developer": "HoYoverse",
+      "publisher": "HoYoverse",
+      "releaseDate": "28 September 2020",
+      "rating": 4.8,
+      "size": "25 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Genshin_Impact_gameplay_screenshot.png/500px-Genshin_Impact_gameplay_screenshot.png",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Genshin_Impact_gameplay_screenshot.png/960px-Genshin_Impact_gameplay_screenshot.png",
+      "isPopular": true,
+      "isLatest": true,
+      "shortDescription": "Jelajahi dunia Teyvat yang luas, kumpulkan karakter, dan kuasai elemen dalam petualangan open-world penuh misteri.",
+      "description": "Genshin Impact adalah game open-world action RPG yang membawa pemain ke dunia fantasi Teyvat. Pemain berperan sebagai Traveler yang mencari saudara yang hilang sambil mengungkap rahasia dunia. Nikmati sistem pertarungan berbasis elemen, eksplorasi bebas, arsitektur puzzle, serta berbagai karakter unik dengan cerita masing-masing.",
+      "requirements": {
+        "OS": "Windows 7 SP1 64-bit / Android 7.0",
+        "Processor": "Intel Core i5 / Snapdragon 855",
+        "Memory": "8 GB RAM",
+        "Graphics": "NVIDIA GeForce GT 1030",
+        "Storage": "30 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Genshin_Impact_gameplay_screenshot.png/800px-Genshin_Impact_gameplay_screenshot.png",
+        "https://upload.wikimedia.org/wikipedia/en/0/02/Genshin_Impact_gameplay_elemental_reaction_overloaded.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/500px-Genshin_Impact_logo.svg.png"
+      ]
+    },
+    {
+      "id": "naruto-online",
+      "title": "Naruto Online",
+      "genre": "MMORPG",
+      "category": "strategi",
+      "developer": "Oasgames",
+      "publisher": "Oasgames",
+      "releaseDate": "28 Juli 2016",
+      "rating": 4.5,
+      "size": "3 GB",
+      "price": "Gratis",
+      "thumbnail": "https://media.rawg.io/media/resize/1280/-/screenshots/1d4/1d4423214d1fb537e05e3eb30a107115.jpg",
+      "banner": "https://media.rawg.io/media/resize/1280/-/screenshots/1d4/1d4423214d1fb537e05e3eb30a107115.jpg",
+      "isPopular": true,
+      "isLatest": false,
+      "shortDescription": "Bergabunglah dengan ninja legendaris dan bangun tim impianmu dalam petualangan dunia shinobi.",
+      "description": "Naruto Online adalah game browser MMORPG berbasis anime Naruto. Pemain dapat mengumpulkan ninja, membentuk formasi, dan bertarung dalam pertempuran berbasis giliran yang menantang. Ikuti alur cerita asli, selesaikan misi harian, dan bertarung melawan pemain lain dari seluruh dunia.",
+      "requirements": {
+        "OS": "Android 5.0 / Windows 10",
+        "Processor": "Quad-core 1.5 GHz",
+        "Memory": "2 GB RAM",
+        "Graphics": "Adreno 306 / GPU setara",
+        "Storage": "3 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://media.rawg.io/media/resize/1280/-/screenshots/1d4/1d4423214d1fb537e05e3eb30a107115.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
+      ]
+    },
+    {
+      "id": "overwatch-2",
+      "title": "Overwatch 2",
+      "genre": "FPS / Menembak",
+      "category": "menembak",
+      "developer": "Blizzard Entertainment",
+      "publisher": "Blizzard Entertainment",
+      "releaseDate": "4 Oktober 2022",
+      "rating": 4.3,
+      "size": "50 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/89/Overwatch_2_Steam_artwork.jpg",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/8/89/Overwatch_2_Steam_artwork.jpg",
+      "isPopular": true,
+      "isLatest": true,
+      "shortDescription": "Pertempuran tim 5v5 dengan hero ikonik, kemampuan unik, dan medan perang dinamis di seluruh dunia.",
+      "description": "Overwatch 2 adalah game tembak-menembak berbasis tim dengan gaya hero shooter. Setiap hero memiliki kemampuan khusus yang saling melengkapi. Bertarung dalam mode Push, Control, dan Escort bersama tim untuk menguasai medan tempur dan meraih kemenangan.",
+      "requirements": {
+        "OS": "Windows 10 64-bit / Android 11",
+        "Processor": "Intel Core i3 / Snapdragon 865",
+        "Memory": "6 GB RAM",
+        "Graphics": "NVIDIA GeForce GTX 600",
+        "Storage": "50 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/8/89/Overwatch_2_Steam_artwork.jpg"
+      ]
+    },
+    {
+      "id": "diablo-immortal",
+      "title": "Diablo Immortal",
+      "genre": "Action RPG",
+      "category": "strategi",
+      "developer": "Blizzard Entertainment",
+      "publisher": "Blizzard Entertainment",
+      "releaseDate": "2 Juni 2022",
+      "rating": 4.2,
+      "size": "12 GB",
+      "price": "Gratis",
+      "thumbnail": "https://media.rawg.io/media/resize/1280/-/games/7fd/7fd73ef44936f8eec7732cfc299dff09.jpg",
+      "banner": "https://media.rawg.io/media/resize/1280/-/games/7fd/7fd73ef44936f8eec7732cfc299dff09.jpg",
+      "isPopular": true,
+      "isLatest": true,
+      "shortDescription": "Kembalinya kegelapan Sanctuary dalam game action RPG mobile dengan pertarungan brutal dan loot melimpah.",
+      "description": "Diablo Immortal menghadirkan aksi hack-and-slash legendaris ke perangkat mobile. Pilih dari beberapa kelas, jelajahi dunia Sanctuary yang gelap, dan kumpulkan loot serta set legendaris. Bertarung sendirian atau bergabung dengan pemain lain dalam raid dan dungeon yang menantang.",
+      "requirements": {
+        "OS": "Android 12 / iOS 14",
+        "Processor": "Snapdragon 660 / Apple A11",
+        "Memory": "4 GB RAM",
+        "Graphics": "Adreno 512",
+        "Storage": "12 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://media.rawg.io/media/resize/1280/-/games/7fd/7fd73ef44936f8eec7732cfc299dff09.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c0/Diablo_Immortal_App_Logo.png"
+      ]
+    },
+    {
+      "id": "lost-ark",
+      "title": "Lost Ark",
+      "genre": "MMORPG",
+      "category": "strategi",
+      "developer": "Smilegate RPG",
+      "publisher": "Amazon Games",
+      "releaseDate": "11 Februari 2022",
+      "rating": 4.4,
+      "size": "70 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Lost_Ark_cover.jpg",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/f/ff/Lost_Ark_cover.jpg",
+      "isPopular": false,
+      "isLatest": true,
+      "shortDescription": "Petualangan MMO ARPG dengan kelas beragam, raid epik, dan dunia Arkesia yang penuh bahaya dan harta.",
+      "description": "Lost Ark adalah MMORPG aksi yang menggabungkan eksplorasi dunia luas dengan pertarungan real-time yang cepat. Pilih dari berbagai kelas, kuasai skill dan tripod, lalu tantang raid dan dungeon bersama guild untuk mendapatkan gear terbaik.",
+      "requirements": {
+        "OS": "Windows 10 64-bit",
+        "Processor": "Intel Core i5",
+        "Memory": "8 GB RAM",
+        "Graphics": "NVIDIA GTX 1050",
+        "Storage": "70 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/f/ff/Lost_Ark_cover.jpg"
+      ]
+    },
+    {
+      "id": "pubg-battlegrounds",
+      "title": "PUBG: BATTLEGROUNDS",
+      "genre": "Battle Royale / Menembak",
+      "category": "menembak",
+      "developer": "KRAFTON",
+      "publisher": "KRAFTON",
+      "releaseDate": "21 Desember 2017",
+      "rating": 4.6,
+      "size": "40 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9f/Pubgbattlegrounds.png",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/9/9f/Pubgbattlegrounds.png",
+      "isPopular": true,
+      "isLatest": false,
+      "shortDescription": "Bertahan hidup hingga menjadi pemain terakhir dalam pertempuran battle royale yang menegangkan.",
+      "description": "PUBG: BATTLEGROUNDS adalah pelopor genre battle royale yang mengadu 100 pemain di satu medan perang. Cari senjata, kendaraan, dan perlengkapan, lalu bertarung untuk menjadi satu-satunya yang tersisa. Berbagai peta dengan medan berbeda menanti.",
+      "requirements": {
+        "OS": "Windows 10 64-bit / Android 10",
+        "Processor": "Intel Core i5 / Snapdragon 730",
+        "Memory": "8 GB RAM",
+        "Graphics": "NVIDIA GTX 960",
+        "Storage": "40 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/9/9f/Pubgbattlegrounds.png"
+      ]
+    },
+    {
+      "id": "enlisted",
+      "title": "Enlisted",
+      "genre": "FPS / Menembak",
+      "category": "menembak",
+      "developer": "Darkflow Software",
+      "publisher": "Gaijin Entertainment",
+      "releaseDate": "2 Maret 2021",
+      "rating": 4.1,
+      "size": "20 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/79/Enlisted_cover_art.jpg",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/7/79/Enlisted_cover_art.jpg",
+      "isPopular": false,
+      "isLatest": true,
+      "shortDescription": "Pertempuran Perang Dunia II dengan skuad yang dikendalikan pemain dan pertarungan skala besar.",
+      "description": "Enlisted adalah game tembak-menembak Perang Dunia II di mana kamu memimpin sebuah skuad. Dirimu mengendalikan satu tentara sekaligus dan dapat berpindah antar anggota skuad. Rasakan pertempuran besar dengan kendaraan dan medan perang bersejarah.",
+      "requirements": {
+        "OS": "Windows 10 64-bit",
+        "Processor": "Intel Core i5",
+        "Memory": "8 GB RAM",
+        "Graphics": "NVIDIA GTX 1050",
+        "Storage": "20 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/7/79/Enlisted_cover_art.jpg"
+      ]
+    },
+    {
+      "id": "forge-of-empires",
+      "title": "Forge of Empires",
+      "genre": "Strategi",
+      "category": "strategi",
+      "developer": "InnoGames",
+      "publisher": "InnoGames",
+      "releaseDate": "1 April 2012",
+      "rating": 4.3,
+      "size": "500 MB",
+      "price": "Gratis",
+      "thumbnail": "https://media.rawg.io/media/resize/1280/-/screenshots/7a1/7a1c7b42e34ee332567acde812dcabab.jpg",
+      "banner": "https://media.rawg.io/media/resize/1280/-/screenshots/7a1/7a1c7b42e34ee332567acde812dcabab.jpg",
+      "isPopular": false,
+      "isLatest": true,
+      "shortDescription": "Bangun peradaban, teliti teknologi, dan taklukkan wilayah dari Zaman Batu hingga masa depan.",
+      "description": "Forge of Empires adalah game strategi membangun kota di mana pemain mengembangkan peradabannya sepanjang sejarah. Kelola sumber daya, teliti teknologi, latih pasukan, dan perluas wilayah melalui diplomasi atau pertempuran dengan pemain lain.",
+      "requirements": {
+        "OS": "Android 6.0 / iOS 12",
+        "Processor": "Dual-core 1.3 GHz",
+        "Memory": "2 GB RAM",
+        "Graphics": "Adreno 400 / GPU setara",
+        "Storage": "1 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://media.rawg.io/media/resize/1280/-/screenshots/7a1/7a1c7b42e34ee332567acde812dcabab.jpg"
+      ]
+    },
+    {
+      "id": "asphalt-9",
+      "title": "Asphalt 9: Legends",
+      "genre": "Racing / Balap",
+      "category": "balap",
+      "developer": "Gameloft",
+      "publisher": "Gameloft",
+      "releaseDate": "25 Juli 2018",
+      "rating": 4.7,
+      "size": "6 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/8/83/Asphalt_Legends_Cover.jpg",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/8/83/Asphalt_Legends_Cover.jpg",
+      "isPopular": true,
+      "isLatest": true,
+      "shortDescription": "Balapan arcade berkecepatan tinggi dengan mobil hypercar dan grafis memukau.",
+      "description": "Asphalt 9: Legends menghadirkan balapan arcade paling seru dengan lebih dari 60 mobil hypercar dan motor. Rasakan kontrol sederhana namun mendalam, lintasan spektakuler di lokasi dunia nyata, dan mode multiplayer kompetitif dengan 8 pemain.",
+      "requirements": {
+        "OS": "Android 9 / iOS 13",
+        "Processor": "Snapdragon 730",
+        "Memory": "4 GB RAM",
+        "Graphics": "Adreno 618",
+        "Storage": "6 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/8/83/Asphalt_Legends_Cover.jpg"
+      ]
+    },
+    {
+      "id": "real-racing-3",
+      "title": "Real Racing 3",
+      "genre": "Racing / Balap",
+      "category": "balap",
+      "developer": "Electronic Arts",
+      "publisher": "Electronic Arts",
+      "releaseDate": "28 Februari 2013",
+      "rating": 4.5,
+      "size": "4 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5d/Real_Racing_3.jpg",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/5/5d/Real_Racing_3.jpg",
+      "isPopular": false,
+      "isLatest": true,
+      "shortDescription": "Simulasi balapan realistis dengan fisika kendaraan akurat dan sirkuit kelas dunia.",
+      "description": "Real Racing 3 adalah simulasi balapan realistis dengan fisika kendaraan yang akurat, sirkuit kelas dunia, dan koleksi mobil impian. Uji kemampuanmu melawan pemain dari seluruh dunia dalam berbagai mode balapan.",
+      "requirements": {
+        "OS": "Android 9 / iOS 13",
+        "Processor": "Snapdragon 660",
+        "Memory": "4 GB RAM",
+        "Graphics": "Adreno 512",
+        "Storage": "4 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5d/Real_Racing_3.jpg"
+      ]
+    },
+    {
+      "id": "efootball-2024",
+      "title": "eFootball 2024",
+      "genre": "Sports / Sport",
+      "category": "sport",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "releaseDate": "30 September 2023",
+      "rating": 4.4,
+      "size": "5 GB",
+      "price": "Gratis",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/EFootball_logo.svg/500px-EFootball_logo.svg.png",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/EFootball_logo.svg/960px-EFootball_logo.svg.png",
+      "isPopular": true,
+      "isLatest": true,
+      "shortDescription": "Sepak bola virtual dengan lisensi klub dan tim nasional, serta kontrol gameplay yang dalam.",
+      "description": "eFootball 2024 adalah game sepak bola gratis dari Konami yang menawarkan pertandingan realistis dengan berbagai klub dan tim nasional berlisensi. Susun tim impianmu, bertanding dalam turnamen, dan tantang pemain lain secara online.",
+      "requirements": {
+        "OS": "Android 10 / iOS 13",
+        "Processor": "Snapdragon 730",
+        "Memory": "4 GB RAM",
+        "Graphics": "Adreno 618",
+        "Storage": "5 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/EFootball_logo.svg/960px-EFootball_logo.svg.png"
+      ]
+    },
+    {
+      "id": "mobile-legends",
+      "title": "Mobile Legends: Bang Bang",
+      "genre": "MOBA / Strategi",
+      "category": "strategi",
+      "developer": "Moonton",
+      "publisher": "Moonton",
+      "releaseDate": "11 Juli 2016",
+      "rating": 4.6,
+      "size": "3 GB",
+      "price": "Gratis",
+      "thumbnail": "https://media.rawg.io/media/resize/1280/-/screenshots/d57/d57f217454e00c0e5a220ed9d2953459.jpeg",
+      "banner": "https://media.rawg.io/media/resize/1280/-/screenshots/d57/d57f217454e00c0e5a220ed9d2953459.jpeg",
+      "isPopular": true,
+      "isLatest": false,
+      "shortDescription": "MOBA 5v5 cepat yang mengadu strategi tim untuk menghancurkan markas musuh.",
+      "description": "Mobile Legends: Bang Bang adalah game MOBA 5v5 yang berlangsung cepat. Pilih hero sesuai peranmu, kerja sama dengan tim, rebut objective, dan hancurkan markas musuh. Pertandingan hanya memakan waktu sekitar 10 menit.",
+      "requirements": {
+        "OS": "Android 6.0 / iOS 12",
+        "Processor": "Quad-core 1.5 GHz",
+        "Memory": "3 GB RAM",
+        "Graphics": "Adreno 505 / GPU setara",
+        "Storage": "3 GB ruang tersedia"
+      },
+      "screenshots": [
+        "https://media.rawg.io/media/resize/1280/-/screenshots/d57/d57f217454e00c0e5a220ed9d2953459.jpeg",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Mobile_Legends_Bang_Bang_2025_logo.png/500px-Mobile_Legends_Bang_Bang_2025_logo.png"
+      ]
+    }
+  ]
+}
